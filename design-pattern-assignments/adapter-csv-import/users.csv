@@ -1,0 +1,6 @@
+user1,user1@example.com,John Doe
+user2,user2@example.com,Jane Smith
+user3,invalid-email,Invalid User
+,user4@example.com,Missing ID
+user5,user5@example.com,Bob Wilson
+user6,user6@example.com,Alice Brown
