@@ -7,4 +7,8 @@ public class Latte extends Beverage {
 		return 20;
 	}
 
+	@Override
+	public String getDescription() {
+		return "Latte";
+	}
 }
